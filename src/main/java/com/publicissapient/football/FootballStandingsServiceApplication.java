@@ -9,6 +9,7 @@ public class FootballStandingsServiceApplication {
 	public static void main(String[] args) {
 		System.out.println("Hello publicis sapients");
 		System.out.println("Hello publicis sapients");
+		System.out.println("Hello publicis sapients");
 		SpringApplication.run(FootballStandingsServiceApplication.class, args);
 	}
 
